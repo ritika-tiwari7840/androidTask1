@@ -41,8 +41,8 @@
     <TextView
         android:id="@+id/welcome_text"
         android:layout_width="323dp"
-        android:layout_height="42dp"
-        android:text="Explore all the existing job roles based on your \n interest and study major"
+        android:layout_height="wrap_content"
+        android:text="Explore all the existing job roles based on your interest and study major"
         android:textAlignment="center"
         android:textColor="#2b2b2b"
         android:textSize="14sp"
