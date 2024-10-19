@@ -126,6 +126,7 @@
         android:textColor="@color/black"
         android:textSize="15sp"
         app:cornerRadius="13sp"
+        android:clickable="true"
 
 
         />
