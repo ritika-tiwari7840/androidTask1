@@ -10,6 +10,7 @@
 
 
 
+
     <ImageView
         android:id="@+id/welcome_image"
         android:layout_width="385dp"
@@ -64,6 +65,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:textSize="15sp"
+        android:clickable="true"
 
         />
 
@@ -81,9 +83,8 @@
         android:layout_marginTop="700dp"
         app:cornerRadius="13sp"
         android:textStyle="bold"
-
-
         android:textSize="15sp"
+        android:clickable="true"
 
 
         />
